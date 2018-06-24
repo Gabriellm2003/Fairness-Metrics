@@ -1,2 +1,5 @@
 # Fairness-Metrics
-O crescimento do uso de tomadores de decisões orientados a dados é cada vez mais perceptível em nossa sociedade. Apesar das diversas vantagens que esse modelo apresenta, ele é responsável por causar um fenômeno conhecido como discriminação algorítmica. Devido à grande popularidade desses modelos, essa discriminação acaba se tornando um problema sério e deve ser prevenida e combatida. Esse projeto descreve uma abordagem matemática e computacional das principais soluções e técnicas para a detecção e correção da discriminação contida em conjuntos de dados.
+The growth of data-driven decision makers is noticeable in our society.
+Although these models provide a variety of advantages, they're responsible for causing a phenomenon known as algorithm discrimination.
+Due to their immense popularity, the discrimination caused by such decision makers ended up becoming a serious problem, and it has to be prevented and countered.
+This project describes a mathematical and computational approach of the main solutions and techniques to detect and correct discrimination in datasets.  
